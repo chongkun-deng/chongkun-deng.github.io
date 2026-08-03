@@ -12,16 +12,16 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url:    
 
   - title: "Teaching"
-    url: /teaching/    
+    url:     
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: 
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: 
     
   - title: "CV"
     url: /cv/
@@ -30,4 +30,4 @@ main:
   #   url: /cv-json/
     
   - title: "Guide"
-    url: /markdown/
+    url:
