@@ -7,58 +7,65 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV as a PDF]({{ '/files/Chongkun-Deng-CV.pdf' | relative_url }})
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Research interests
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Ordinal and comparison-based methods; metric geometry and tree metrics; high-dimensional probability and statistics; Euclidean and hyperbolic geometry; algorithms and optimization for geometric inference.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Columbia University, Graduate School of Arts and Sciences
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**M.A. in Statistics**, September 2023 - December 2024  
+Overall GPA: 3.82/4.00
+
+### University of California San Diego
+
+**B.S. in Mathematics**, September 2019 - June 2023  
+Overall GPA: 3.69/4.00; Major GPA: 3.67/4.00
+
+## Research experience
+
+### Independent Research
+
+**August 2023 - present**
+
+- **Ordinal Recognition of Fully Labeled Positive Tree Metrics** *(work in progress).* Developing a polynomial-time method to recognize and construct positively weighted tree metrics from ordinal triplet rankings, including \(O(n^2)\) topology recovery and sparse linear-programming certificates of feasibility.
+- **Farthest-Cell Triplet Entropy** *(preprint).* Introduced a comparison-based statistic for high-dimensional geometry; derived Euclidean and hyperbolic limit laws and validated scale-invariant curvature estimation through simulations.
+
+### RTG Reading Group
+
+**March 2022 - June 2022**
+
+- Studied advanced mathematical theory and its applications under the supervision of graduate students.
+- Investigated the correspondence between algebraic curves and discrete valuation rings.
+- Presented and discussed theoretical material in a collaborative reading group.
+
+## Teaching experience
+
+### Teaching Assistant, University of California San Diego
+
+**September 2020 - March 2021**
+
+- Assisted with MATH 20C, Calculus and Analytic Geometry for Science and Engineering, for two quarters.
+- Led discussion sections and office hours and graded assignments and examinations.
+- Prepared course materials and contributed to discussions about course design.
+
+## Honors and competitions
+
+- **Harvard-MIT Mathematics Tournament, General Round:** Top 3%, rank 24, November 2018.
+
+## Technical skills
+
+- **Programming:** Python, R
+
+## Languages
+
+- Chinese: Native
+- English: Fluent
+- Japanese: Conversational
+
+## Contact
+
+[cd3411@columbia.edu](mailto:cd3411@columbia.edu)
