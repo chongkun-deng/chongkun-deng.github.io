@@ -32,7 +32,7 @@ Overall GPA: 3.69/4.00; Major GPA: 3.67/4.00
 **August 2023 - present**
 
 - **Ordinal Recognition of Fully Labeled Positive Tree Metrics** *(work in progress).* Developing a polynomial-time method to recognize and construct positively weighted tree metrics from ordinal triplet rankings, including \(O(n^2)\) topology recovery and sparse linear-programming certificates of feasibility.
-- **Farthest-Cell Triplet Entropy** *(preprint).* Introduced a comparison-based statistic for high-dimensional geometry; derived Euclidean and hyperbolic limit laws and validated scale-invariant curvature estimation through simulations.
+- **[Farthest-cell triplet entropy: high-dimensional shell limits and hyperbolic curvature amplification](https://arxiv.org/abs/2609.02362)** *(arXiv:2609.02362, 2026).* Introduced a comparison-based statistic for high-dimensional geometry; derived Euclidean and hyperbolic limit laws and validated model-calibrated, scale-invariant curvature estimation through simulations.
 
 ### RTG Reading Group
 
