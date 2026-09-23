@@ -25,14 +25,28 @@ Overall GPA: 3.82/4.00
 **B.S. in Mathematics**, September 2019 - June 2023  
 Overall GPA: 3.69/4.00; Major GPA: 3.67/4.00
 
+## Preprints
+
+### [Farthest-cell triplet entropy: high-dimensional shell limits and hyperbolic curvature amplification](https://arxiv.org/abs/2609.02362)
+
+**Chongkun Deng.** arXiv:2609.02362, 2026.
+
+Introduces a comparison-based entropy statistic for the farthest-prototype label among random triples. The paper derives high-dimensional limit laws for isotropic Euclidean and hyperbolic radial models and studies model-calibrated, scale-invariant curvature inference.
+
+### [Tree Recognition and Graph Edge Minimization from Anchored Distance Comparisons]({{ '/files/Tree-Recognition-and-Graph-Edge-Minimization.pdf' | relative_url }})
+
+**Chongkun Deng.** Preprint, September 2026.
+
+Studies when anchored comparisons \(d(o,x)<d(o,y)\) admit a shortest-path realization. The paper gives two quadratic-time tree-edge constructions, a sparse linear-programming test for positive weights, and sharp examples and extremal bounds for minimum-edge graph realizations.
+
 ## Research experience
 
 ### Independent Research
 
 **August 2023 - present**
 
-- **Ordinal Recognition of Fully Labeled Positive Tree Metrics** *(work in progress).* Developing a polynomial-time method to recognize and construct positively weighted tree metrics from ordinal triplet rankings, including \(O(n^2)\) topology recovery and sparse linear-programming certificates of feasibility.
-- **[Farthest-cell triplet entropy: high-dimensional shell limits and hyperbolic curvature amplification](https://arxiv.org/abs/2609.02362)** *(arXiv:2609.02362, 2026).* Introduced a comparison-based statistic for high-dimensional geometry; derived Euclidean and hyperbolic limit laws and validated model-calibrated, scale-invariant curvature estimation through simulations.
+- Develop comparison-based methods for recovering metric, geometric, and combinatorial structure when numerical distances are unavailable.
+- Investigate tree recognition, sparse graph realization, high-dimensional limit laws, and Euclidean and hyperbolic models.
 
 ### RTG Reading Group
 
@@ -68,4 +82,5 @@ Overall GPA: 3.69/4.00; Major GPA: 3.67/4.00
 
 ## Contact
 
-[cd3411@columbia.edu](mailto:cd3411@columbia.edu)
+[cd3411@columbia.edu](mailto:cd3411@columbia.edu)  
+[ORCID: 0009-0005-0808-9278](https://orcid.org/0009-0005-0808-9278)
