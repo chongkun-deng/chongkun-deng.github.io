@@ -11,7 +11,7 @@ redirect_from:
 
 ## Research interests
 
-Ordinal and comparison-based methods; metric geometry and tree metrics; high-dimensional probability and statistics; Euclidean and hyperbolic geometry; algorithms and optimization for geometric inference.
+Statistical inference and learning for structured data; high-dimensional probability; geometric and topological methods; ordinal comparisons, graph structure, and optimization.
 
 ## Education
 
@@ -25,36 +25,34 @@ Overall GPA: 3.82/4.00
 **B.S. in Mathematics**, September 2019 - June 2023  
 Overall GPA: 3.69/4.00; Major GPA: 3.67/4.00
 
-## Preprints
+## Research manuscripts
 
 ### [Farthest-cell triplet entropy: high-dimensional shell limits and hyperbolic curvature amplification](https://arxiv.org/abs/2609.02362)
 
-**Chongkun Deng.** arXiv:2609.02362, 2026.
+**Chongkun Deng.** arXiv preprint, September 2026. [arXiv:2609.02362](https://arxiv.org/abs/2609.02362).
 
-Introduces a comparison-based entropy statistic for the farthest-prototype label among random triples. The paper derives high-dimensional limit laws for isotropic Euclidean and hyperbolic radial models and studies model-calibrated, scale-invariant curvature inference.
+Defines conditional entropy for the farthest-prototype label given random triples. Derives high-dimensional limits for isotropic Euclidean and hyperbolic radial models and a curvature amplification factor. Studies model-calibrated, scale-invariant curvature inference, the external length scale needed for absolute curvature, and sensitivity to angular anisotropy.
 
 ### [Tree Recognition and Graph Edge Minimization from Anchored Distance Comparisons]({{ '/files/Tree-Recognition-and-Graph-Edge-Minimization.pdf' | relative_url }})
 
-**Chongkun Deng.** Preprint, September 2026.
+**Chongkun Deng.** Manuscript, September 2026.
 
-Studies when anchored comparisons \(d(o,x)<d(o,y)\) admit a shortest-path realization. The paper gives two quadratic-time tree-edge constructions, a sparse linear-programming test for positive weights, and sharp examples and extremal bounds for minimum-edge graph realizations.
+Studies positive weighted tree and graph realizations of complete anchored distance rankings on observed vertices. Recovers candidate tree topology in quadratic time, then tests weights with a sparse linear program in root distances. Gives integer weight bounds and infeasibility certificates. For graphs, proves incompatible edge omissions, a linear gap, and the sharp worst-case minimum edge count \(n(n-1)/2-1\).
 
 ## Research experience
 
 ### Independent Research
 
-**August 2023 - present**
+**December 2024 - present**
 
-- Develop comparison-based methods for recovering metric, geometric, and combinatorial structure when numerical distances are unavailable.
-- Investigate tree recognition, sparse graph realization, high-dimensional limit laws, and Euclidean and hyperbolic models.
+- Develop mathematical results for random geometry, tree recognition, and graph realization when observations supply comparisons rather than numerical distances.
+- Combine probabilistic limit theory, graph algorithms, linear programming, simulations, and exact computational verification.
 
 ### RTG Reading Group
 
 **March 2022 - June 2022**
 
-- Studied advanced mathematical theory and its applications under the supervision of graduate students.
-- Investigated the correspondence between algebraic curves and discrete valuation rings.
-- Presented and discussed theoretical material in a collaborative reading group.
+- Studied algebraic curves and discrete valuation rings and presented mathematical material in a collaborative reading group guided by graduate students.
 
 ## Teaching experience
 

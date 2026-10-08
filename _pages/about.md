@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an independent researcher with an M.A. in Statistics from Columbia University and a B.S. in Mathematics from the University of California San Diego. My research lies at the intersection of metric geometry, high-dimensional statistics, and algorithms, with an emphasis on what geometric structure can be recovered from ordinal comparisons rather than numerical distances.
+I am an independent researcher with an M.A. in Statistics from Columbia University and a B.S. in Mathematics from the University of California San Diego. I am interested in statistical inference, probability, and the mathematical foundations of machine learning, especially for data with geometric or combinatorial structure.
 
-My current work studies the recognition of positively weighted tree metrics and entropy-based inference in Euclidean and hyperbolic models. I am seeking PhD opportunities in mathematical statistics, the geometry of data, and related theoretical areas.
+Since December 2024, I have developed two independent research manuscripts on what distance comparisons reveal about an underlying structure. One studies conditional entropy and high-dimensional limits in Euclidean and hyperbolic radial models. The other studies exact realization of anchored distance rankings by positively weighted trees and graphs. These projects combine probabilistic arguments, graph algorithms, optimization, and computational checks.
+
+I am seeking PhD opportunities starting in 2027 in statistics and applied mathematics. I would like to develop broader interests in geometric and topological data analysis, manifold learning, and theoretical statistical learning, including questions about identifiability, uncertainty, and robustness.
 
 ## Research interests
 
-- Ordinal and comparison-based methods
-- Metric geometry and tree metrics
+- Statistical inference and learning for structured data
 - High-dimensional probability and statistics
-- Algorithms and optimization for geometric inference
+- Geometric and topological methods, including manifold learning
+- Ordinal observations, graph structure, and optimization
 
 [Research and publications](/publications/) \| [CV](/cv/) \| [Email](mailto:cd3411@columbia.edu)
