@@ -2,7 +2,7 @@
 title: "Tree Recognition and Graph Edge Minimization from Anchored Distance Comparisons"
 collection: publications
 category: manuscripts
-status: "Preprint"
+status: "Manuscript"
 year: 2026
 order: 2
 authors: "Chongkun Deng"
@@ -10,22 +10,21 @@ permalink: /publication/ordinal-recognition-positive-tree-metrics
 paperurl: "/files/Tree-Recognition-and-Graph-Edge-Minimization.pdf"
 pdfurl: "/files/Tree-Recognition-and-Graph-Edge-Minimization.pdf"
 # codeurl: "https://github.com/..."
-citation: 'Chongkun Deng. (2026). &quot;Tree Recognition and Graph Edge Minimization from Anchored Distance Comparisons.&quot; Preprint.'
+citation: 'Chongkun Deng. (2026). &quot;Tree Recognition and Graph Edge Minimization from Anchored Distance Comparisons.&quot; Manuscript.'
 excerpt: >-
-  A study of realizing anchored comparisons of the form d(o,x) &lt; d(o,y)
-  with positively weighted trees and general graphs, including quadratic-time
-  tree recognition, a sparse linear-programming test for edge weights, and
-  sharp extremal results for graph realizations.
+  Exact realization of anchored distance rankings by trees and graphs, with
+  quadratic recovery of candidate tree topology, a separate sparse linear
+  program for the weights, and obstructions to joint edge removal in graphs.
 ---
 
-**Status:** Preprint  
+**Status:** Manuscript  
 **Author:** Chongkun Deng  
 **Date:** September 2026
 
-[Download the preprint]({{ '/files/Tree-Recognition-and-Graph-Edge-Minimization.pdf' | relative_url }})
+[Download the manuscript]({{ '/files/Tree-Recognition-and-Graph-Edge-Minimization.pdf' | relative_url }})
 
-This paper asks when a collection of **anchored distance comparisons** of the form \(d(o,x)<d(o,y)\) can be represented by shortest-path distances in a positively weighted tree whose vertex set is exactly the set of observed objects. It gives two quadratic-time ways to construct the candidate tree edge set: the half-space proximity (HSP) graph and a minimum spanning tree of any compatible metric. Whenever a tree realization exists, both constructions recover its edges.
+This paper asks whether **anchored distance rankings** can be realized by shortest-path distances in a positively weighted tree whose vertices are exactly the observed objects. For complete strict rankings, two quadratic procedures recover the only possible candidate topology: Half-Space Proximal (HSP) selection and a minimum spanning tree of a compatible metric. A separate linear program tests whether positive weights on that topology realize the rankings.
 
-After the topology is recovered, a separate sparse linear program decides whether positive edge weights can realize every comparison. In root-distance variables, each comparison uses at most four nonzero coefficients; feasible instances admit bounded integer weights, while infeasible instances have small certificates. The paper also identifies an additive-triple property that every compatible metric must obey when a tree realization exists.
+The feasibility formulation uses root distances and at most four nonzero coefficients per comparison. The manuscript develops integer weight bounds, small certificates of infeasibility, and a characterization of the additive triples that are possible under tree rankings. It distinguishes the contribution of the feasibility analysis from earlier results on ordinal tree topology.
 
-The general-graph problem behaves differently: edges that can each be omitted separately need not be omissible together. The paper gives the smallest such example on five vertices, proves a linear gap between individually forced edges and the minimum number needed jointly, establishes the sharp worst-case minimum of \(\binom{n}{2}-1\) edges, and gives a seven-vertex example showing that maximizing additive triples can require more edges than minimizing edge count. Determining the complexity of minimum-edge realization for general graphs remains open.
+For general graphs, individually removable edges need not be removable together. A smallest five-vertex example, a linear gap between forced edges and the minimum number needed jointly, and a sharp extremal edge bound quantify this obstruction. A further example separates maximizing additive triples from minimizing edges. Exact computational certificates support the finite examples; the general complexity of minimum-edge realization remains open.
